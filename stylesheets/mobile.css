@@ -184,6 +184,10 @@ header h2 {
   text-align: center;
 }
 
+header a {
+  color: #cd596b;
+}
+
 section#downloads {
   position: relative;
   display: block;
