@@ -437,6 +437,37 @@ Ending Payoff:
 
 
 ----------------------------------------------------------------
+## The Benefit of Hindsight
+### By Saraband
+SCORE: 
+
+Summary:
+> 
+
+Theme Appropriateness:
+> 
+
+Opening Strength:
+> 
+
+Mechanics and Style:
+> 
+
+Characterization:
+> 
+
+Conflict and Tension:
+> 
+
+Cohesive Story:
+> 
+
+Ending Payoff:
+> 
+
+
+
+----------------------------------------------------------------
 ## Potion, Potion, Potion
 ### By Anonymous
 SCORE: 
