@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=640">
+
+    <link rel="stylesheet" href="../stylesheets/core.css" media="screen">
+    <link rel="stylesheet" href="../stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)">
+    <link rel="stylesheet" href="../stylesheets/github-light.css">
+
+    <style>
+
+		h2 {
+		  position: relative;
+		  font-family: 'Open Sans', sans-serif;
+		  font-size: 1em;
+		  font-weight: 400;
+		  text-transform: uppercase;
+		  color: #adadad;
+		}
+		h2:after {
+		  content: "";
+		  position: absolute;
+		  left: 0;
+		  right: 0;
+		  bottom: -10px;
+		  width: 30px;
+		}
+
+
+		ul {
+		  list-style: none;
+		  margin: 2em 0 0;
+		  padding: 0;
+		}
+		ul::after {
+		  clear: both;
+		  content: "";
+		  display: table;
+		}
+		ul li {
+		  margin-bottom: 2em;
+		  background: none;
+		}
+		@media only screen and (min-width: 700px) {
+		  ul li {
+		    float: left;
+		    width: 47%;
+		    margin-right: 5%;
+		  }
+		  ul li:nth-child(2n) {
+		    margin-right: 0;
+		  }
+		}
+		ul li h3 {
+		  position: relative;
+		  z-index: 1;
+		  margin: 0;
+		  font-family: 'Ubuntu', sans-serif;
+		  font-size: 1.25em;
+		  line-height: 2.5em;
+		  font-weight: 300;
+		  letter-spacing: 1px;
+		  color: #666;
+		}
+		ul li h3:before {
+		  content: "";
+		  position: absolute;
+		  z-index: -1;
+		  background-color: #dadada;
+		  width: 2.5em;
+		  height: 2.5em;
+		  border-radius: 50%;
+		}
+		ul li h3 span {
+		  padding-left: 15px;
+		}
+		ul li p {
+		  padding-left: 15px;
+		  margin-top: -.8em;
+		  margin-left: 2em;
+		  font-family: 'Open Sans', sans-serif;
+		  font-size: 1em;
+		  line-height: 1.5em;
+		  font-weight: 200;
+		  color: #adadad;
+		}
+
+    </style>
+
+    <script type="text/javascript" src="../javascripts/modernizr.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="../javascripts/headsmart.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $('#main_content').headsmart();
+
+		
+		var authors = {};
+
+		// =====================================
+		// ADD NEW AUTHORS/GENRES HERE
+		// -------------------------------------
+		// if there's either no series or no book 
+		// title, just go ahead and leave them 
+		// blank.  it doesn't hurt anything.
+		// -------------------------------------
+
+		authors["Alternative history"] = [];
+		authors["Alternative history"].push({"author":"Mary Gentle", "series":"Book of Ash", "book-title":"Ash: A Secret History"});
+		authors["Alternative history"].push({"author":"Anne Lyle", "series":"Night's Masque", "book-title":"The Alchemist of Souls"});
+		authors["Alternative history"].push({"author":"SM Stirling", "series":"Island in the Sea of Time", "book-title":""});
+
+
+		authors["Epic Fantasy"] = [];
+		authors["Epic Fantasy"].push({"author":"Peter V Brett", "series":"The Demon Cycle", "book-title":"The Painted Man"});
+		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
+		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
+		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
+		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
+		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
+		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
+		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
+		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
+		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
+		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
+		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
+		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
+
+
+
+
+		authors["Fairy tales"] = [];
+		authors["Fairy tales"].push({"author":"", "series":"", "book-title":""});
+
+
+
+		authors["High Fantasy"] = [];
+		authors["High Fantasy"].push({"author":"", "series":"", "book-title":""});
+
+
+
+		authors["Historic Fantasy"] = [];
+		authors["Historic Fantasy"].push({"author":"", "series":"", "book-title":""});
+
+
+
+		authors["Horror"] = [];
+		authors["Horror"].push({"author":"", "series":"", "book-title":""});
+
+
+
+		authors["Military Fantasy"] = [];
+		authors["Military Fantasy"].push({"author":"", "series":"", "book-title":""});
+
+
+
+		authors["Mythology"] = [];
+		authors["Mythology"].push({"author":"", "series":"", "book-title":""});
+
+
+
+		authors["New Weird"] = [];
+		authors["New Weird"].push({"author":"", "series":"", "book-title":""});
+
+
+
+		authors["Romance"] = [];
+		authors["Romance"].push({"author":"", "series":"", "book-title":""});
+
+
+
+		authors["Science Fiction"] = [];
+		authors["Science Fiction"].push({"author":"", "series":"", "book-title":""});
+
+
+
+		authors["Steampunk"] = [];
+		authors["Steampunk"].push({"author":"", "series":"", "book-title":""});
+
+
+
+		authors["Time Travel"] = [];
+		authors["Time Travel"].push({"author":"", "series":"", "book-title":""});
+
+
+
+		authors["Urban Fantasy"] = [];
+		authors["Urban Fantasy"].push({"author":"", "series":"", "book-title":""});
+
+
+
+		authors["Western"] = [];
+		authors["Western"].push({"author":"", "series":"", "book-title":""});
+
+
+
+		authors["Young Adult"] = [];
+		authors["Young Adult"].push({"author":"", "series":"", "book-title":""});
+
+
+		// =====================================
+		// =====================================
+
+
+      })
+    </script>
+    <title>List of LGBT Characters from FantasyFactionTools</title>
+  </head>
+
+  <body>
+    <a id="forkme_banner" href="https://github.com/FantasyFactionTools">View on GitHub</a>
+    <div class="shell">
+
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>Fantasyfactiontools.GitHub.io</h1>
+            <h2>Tools and useful bits of persistent content for <a href="http://fantasy-faction.com">Fantasy Faction</a></h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
+
+      <div id="no-downloads">
+        <span class="inner">
+        </span>
+      </div>
+
+
+      <span class="banner-fix"></span>
+
+
+      <section id="main_content">
+
+      	<h1>List of LGBT Characters in Fantasy</h1>
+
+		<h2>Alternative history</h2>
+		<ul>
+			<li>
+				<h3><span>Mary Gentle</span></h3>
+				<p>Ash: A Secret History (Book of Ash, #1-4)</p>
+			</li>
+			<li>
+				<h3><span>Anne Lyle</span></h3>
+				<p>The Alchemist of Souls (Night's Masque #1)</p>
+			</li>
+			<li>
+				<h3><span>SM Stirling</span></h3>
+				<p>Island in the Sea of Time Series</p>
+			</li>
+		</ul>
+
+		<h2>Epic Fantasy</h2>
+		<ul>
+			<li>
+				<h3><span>Peter V Brett</span></h3>
+				<p>The Painted Man and sequels - The Demon Cycle novels</p>
+			</li>
+		</ul>
+
+
+
+
+      </section>
+
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <p>Projects by <a href="https://github.com/FantasyFactionTools">FantasyFactionTools</a> can be found on <a href="https://github.com/FantasyFactionTools">GitHub</a></p>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
+        <span class="octocat"></span>
+      </footer>
+
+    </div>
+
+    
+  </body>
+</html>
