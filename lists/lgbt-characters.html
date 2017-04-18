@@ -28,7 +28,6 @@
 		  width: 30px;
 		}
 
-
 		ul {
 		  list-style: none;
 		  margin: 2em 0 0;
@@ -46,7 +45,7 @@
 		@media only screen and (min-width: 700px) {
 		  ul li {
 		    float: left;
-		    width: 47%;
+		    width: 97%;
 		    margin-right: 5%;
 		  }
 		  ul li:nth-child(2n) {
@@ -92,121 +91,92 @@
     <script type="text/javascript" src="/javascripts/modernizr.js"></script>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="/javascripts/headsmart.min.js"></script>
-    <script type="text/javascript">
-      $(document).ready(function () {
-        $('#main_content').headsmart();
+	<script type="text/javascript">
+		$(document).ready(function () {
+		$('#main_content').headsmart();
 
-		
-		var authors = {};
+			var authors = {};
 
-		// =====================================
-		// ADD NEW AUTHORS/GENRES HERE
-		// -------------------------------------
-		// if there's either no series or no book 
-		// title, just go ahead and leave them 
-		// blank.  it doesn't hurt anything.
-		// -------------------------------------
-
-		authors["Alternative history"] = [];
-		authors["Alternative history"].push({"author":"Mary Gentle", "series":"Book of Ash", "book-title":"Ash: A Secret History"});
-		authors["Alternative history"].push({"author":"Anne Lyle", "series":"Night's Masque", "book-title":"The Alchemist of Souls"});
-		authors["Alternative history"].push({"author":"SM Stirling", "series":"Island in the Sea of Time", "book-title":""});
+			// =====================================
+			// ADD NEW AUTHORS/GENRES HERE
+			// -------------------------------------
+			// if there's either no series or no book 
+			// title, just go ahead and leave them 
+			// blank.  it doesn't hurt anything.
+			// -------------------------------------
 
 
-		authors["Epic Fantasy"] = [];
-		authors["Epic Fantasy"].push({"author":"Peter V Brett", "series":"The Demon Cycle", "book-title":"The Painted Man"});
-		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
-		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
-		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
-		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
-		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
-		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
-		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
-		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
-		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
-		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
-		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
-		authors["Epic Fantasy"].push({"author":"", "series":"", "book-title":""});
+			authors["Alternative history"] = [];
+			authors["Alternative history"].push({"author":"Mary Gentle", "series":"Book of Ash", "book-title":"Ash: A Secret History"});
+			authors["Alternative history"].push({"author":"Anne Lyle", "series":"Night's Masque", "book-title":"The Alchemist of Souls"});
+			authors["Alternative history"].push({"author":"SM Stirling", "series":"Island in the Sea of Time", "book-title":""});
+
+			authors["Epic Fantasy"] = [];
+			authors["Epic Fantasy"].push({"author":"Peter V Brett", "series":"The Demon Cycle", "book-title":"The Painted Man"});
+			authors["Epic Fantasy"].push({"author":"Jacquelyn Carey", "series":"Kushiel Series", "book-title":""});
+			authors["Epic Fantasy"].push({"author":"Jacquelyn Carey", "series":"Namaah Series", "book-title":""});
+			authors["Epic Fantasy"].push({"author":"Seth Dickinson", "series":"", "book-title":"The Traitor Baru Cormorant"});
+			authors["Epic Fantasy"].push({"author":"David Gemmell", "series":"The Drenai Saga", "book-title":"Quest for Lost Heroes"});
+			authors["Epic Fantasy"].push({"author":"John Gwynne", "series":"The Faithful and the Fallen ", "book-title":"Malice"});
+			authors["Epic Fantasy"].push({"author":"Robin Hobb", "series":"Rain Wild Chronicles", "book-title":"The Dragon Keeper"});
+			authors["Epic Fantasy"].push({"author":"Kameron Hurley", "series":"Worldbreaker Saga", "book-title":"The Mirror Empire"});
+			authors["Epic Fantasy"].push({"author":"Alex Marshall", "series":"The Crimson Empire", "book-title":"A Crown for Cold Silver"});
+			authors["Epic Fantasy"].push({"author":"George R.R.Martin", "series":"A Song of Fire and Ice", "book-title":"A Game of Thrones"});
+			authors["Epic Fantasy"].push({"author":"Richard K. Morgan", "series":"A Land Fit for Heroes", "book-title":"The Steel Remains"});
+			authors["Epic Fantasy"].push({"author":"Mark Charan Newton", "series":"Legends of the Red Sun", "book-title":"Nights of Villjamur"});
+			authors["Epic Fantasy"].push({"author":"Den Patrick", "series":"Erebus Sequence", "book-title":"The Boy With the Porcelain Blade"});
+			authors["Epic Fantasy"].push({"author":"Ricardo Pinto", "series":"The Stone Dance of the Chameleon", "book-title":"The Chosen"});
+			authors["Epic Fantasy"].push({"author":"W.G. Saraband", "series":"", "book-title":"The Shattered Sands"});
+			authors["Epic Fantasy"].push({"author":"Ken Scholes", "series":"Psalms of Isaak", "book-title":"Lamentation"});
+			authors["Epic Fantasy"].push({"author":"Anna Stephens", "series":"", "book-title":"Godblind"});
+			authors["Epic Fantasy"].push({"author":"Brent Weeks", "series":"Nigh Angel", "book-title":"The Way of the Shadows"});
+			authors["Epic Fantasy"].push({"author":"Django Wexler", "series":"The Shadow Campaigns", "book-title":"The Thousand Names"});
+			authors["Epic Fantasy"].push({"author":"Jen Williams", "series":"The Copper Cat", "book-title":"The Copper Promise"});
+
+			authors["Fairy Tales"] = [];
+			authors["Fairy Tales"].push({"author":"Jim C.Hines", "series":"Princess", "book-title":"Red Hood's Revenge"});
+			authors["Fairy Tales"].push({"author":"Malinda Lo", "series":"", "book-title":"Ash"});
+
+			authors["High Fantasy"] = [];
+			authors["High Fantasy"].push({"author":"Joe Abercrombie", "series":"First Law World", "book-title":"Sharp Ends"});
+			authors["High Fantasy"].push({"author":"Peter V Brett", "series":"The Demon Cycle", "book-title":"The Painted Man"});
+			authors["High Fantasy"].push({"author":"Amanda Downum", "series":"The Necromancer Chronicles", "book-title":"The Bone Palace"});
+			authors["High Fantasy"].push({"author":"Lynn Flewelling", "series":"Nightrunner", "book-title":"Luck in the Shadows"});
+			authors["High Fantasy"].push({"author":"John Gwynne", "series":"The Faithful and the Fallen", "book-title":"Malice"});
+			authors["High Fantasy"].push({"author":"Kameron Hurley", "series":"Worldbreaker Saga", "book-title":"The Mirror Empire"});
+			authors["High Fantasy"].push({"author":"Alex Marshall", "series":"The Crimson Empire", "book-title":"A Crown for Cold Silver"});
+			authors["High Fantasy"].push({"author":"Mark Charan Newton", "series":"Legends of the Red Sun", "book-title":"Nights of Villjamur"});
+			authors["High Fantasy"].push({"author":"Den Patrick", "series":"Erebus Sequence ", "book-title":"The Boy With the Porcelain Blade"});
+
+			// =====================================
+			// =====================================
+
+	        for (var genre in authors) {
+	            
+	        	$("#main_content").append('<h2 class="header-level-2">' + genre + '</h2>');
+	        	var genreList = $("<ul></ul>");
+
+	        	for (var i in authors[genre]) {
+	        		var ipListItem = $("<li></li>");
+
+	        		ipListItem.append('<h3><span>' + authors[genre][i]['author'] + '</span></h3>');
+
+	        		var bookSeriesArray = [];
+	        		if (authors[genre][i]['book-title'] != "") bookSeriesArray.push(authors[genre][i]['book-title']);
+	        		if (authors[genre][i]['series'] != "") bookSeriesArray.push(authors[genre][i]['series'] + ' series');
+
+	        		ipListItem.append('<p>' + bookSeriesArray.join('<br>') + '</p>');
+
+	        		genreList.append(ipListItem);
+	        	}
+
+	        	$("#main_content").append(genreList);
+	        }
 
 
-
-
-		authors["Fairy tales"] = [];
-		authors["Fairy tales"].push({"author":"", "series":"", "book-title":""});
-
-
-
-		authors["High Fantasy"] = [];
-		authors["High Fantasy"].push({"author":"", "series":"", "book-title":""});
-
-
-
-		authors["Historic Fantasy"] = [];
-		authors["Historic Fantasy"].push({"author":"", "series":"", "book-title":""});
-
-
-
-		authors["Horror"] = [];
-		authors["Horror"].push({"author":"", "series":"", "book-title":""});
-
-
-
-		authors["Military Fantasy"] = [];
-		authors["Military Fantasy"].push({"author":"", "series":"", "book-title":""});
-
-
-
-		authors["Mythology"] = [];
-		authors["Mythology"].push({"author":"", "series":"", "book-title":""});
-
-
-
-		authors["New Weird"] = [];
-		authors["New Weird"].push({"author":"", "series":"", "book-title":""});
-
-
-
-		authors["Romance"] = [];
-		authors["Romance"].push({"author":"", "series":"", "book-title":""});
-
-
-
-		authors["Science Fiction"] = [];
-		authors["Science Fiction"].push({"author":"", "series":"", "book-title":""});
-
-
-
-		authors["Steampunk"] = [];
-		authors["Steampunk"].push({"author":"", "series":"", "book-title":""});
-
-
-
-		authors["Time Travel"] = [];
-		authors["Time Travel"].push({"author":"", "series":"", "book-title":""});
-
-
-
-		authors["Urban Fantasy"] = [];
-		authors["Urban Fantasy"].push({"author":"", "series":"", "book-title":""});
-
-
-
-		authors["Western"] = [];
-		authors["Western"].push({"author":"", "series":"", "book-title":""});
-
-
-
-		authors["Young Adult"] = [];
-		authors["Young Adult"].push({"author":"", "series":"", "book-title":""});
-
-
-		// =====================================
-		// =====================================
-
-
-      })
-    </script>
-    <title>List of LGBT Characters from FantasyFactionTools</title>
+		})
+	</script>
+	<title>List of LGBT Characters from FantasyFactionTools</title>
   </head>
 
   <body>
@@ -234,36 +204,7 @@
 
 
       <section id="main_content">
-
       	<h1>List of LGBT Characters in Fantasy</h1>
-
-		<h2>Alternative history</h2>
-		<ul>
-			<li>
-				<h3><span>Mary Gentle</span></h3>
-				<p>Ash: A Secret History (Book of Ash, #1-4)</p>
-			</li>
-			<li>
-				<h3><span>Anne Lyle</span></h3>
-				<p>The Alchemist of Souls (Night's Masque #1)</p>
-			</li>
-			<li>
-				<h3><span>SM Stirling</span></h3>
-				<p>Island in the Sea of Time Series</p>
-			</li>
-		</ul>
-
-		<h2>Epic Fantasy</h2>
-		<ul>
-			<li>
-				<h3><span>Peter V Brett</span></h3>
-				<p>The Painted Man and sequels - The Demon Cycle novels</p>
-			</li>
-		</ul>
-
-
-
-
       </section>
 
       <footer>
