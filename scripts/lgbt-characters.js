@@ -45,15 +45,15 @@ authors["High Fantasy"].push({"author":"Django Wexler", "series":"The Shadow Cam
 authors["High Fantasy"].push({"author":"Jen Williams", "series":"The Copper Cat", "book-title":"The Copper Promise"});
 
 authors["Historic Fantasy"] = [];
-authors["Historic Fantasy"].push({"author":"Michael Chabon", "series":"", "book-title":"The Amazing Adventures of Kavalier 7 Clay"});
+authors["Historic Fantasy"].push({"author":"Michael Chabon", "series":"", "book-title":"The Amazing Adventures of Kavalier & Clay"});
 authors["Historic Fantasy"].push({"author":"Ellen Klages", "series":"", "book-title":"Passing Strange"});
 
 authors["Horror"] = [];
 authors["Horror"].push({"author":"Caitlin R. Kiernan", "series":"", "book-title":"The Drowning Girl"});
 
-authors["Millitary Fantasy"] = [];
-authors["Millitary Fantasy"].push({"author":"Megan Derr", "series":"Kria", "book-title":"Prisoner"});
-authors["Millitary Fantasy"].push({"author":"Django Wexler", "series":"The Shadow Campaigns", "book-title":"The Thousand Names"});
+authors["Military Fantasy"] = [];
+authors["Military Fantasy"].push({"author":"Megan Derr", "series":"Kria", "book-title":"Prisoner"});
+authors["Military Fantasy"].push({"author":"Django Wexler", "series":"The Shadow Campaigns", "book-title":"The Thousand Names"});
 
 authors["Mythology"] = [];
 authors["Mythology"].push({"author":"Rebecca Levene", "series":"The Hollow Gods", "book-title":"Smiler's Fair"});
@@ -63,7 +63,6 @@ authors["New Weird"] = [];
 authors["New Weird"].push({"author":"China Mieville", "series":"New Crobuzon", "book-title":"Iron Council"});
 
 authors["Romance"] = [];
-authors["Romance"].push({"author":"", "series":"", "book-title":""});
 authors["Romance"].push({"author":"Jacquelyn Carey", "series":"Kushiel's Universe", "book-title":"Kushiel's Dart"});
 authors["Romance"].push({"author":"Jacquelyn Carey", "series":"Namahh's Trilogy", "book-title":"Namaah's Kiss"});
 authors["Romance"].push({"author":"Storm Constantine", "series":"Wraeththu", "book-title":"The Enchantments of Flesh and Spirit"});
@@ -77,26 +76,26 @@ authors["Romance"].push({"author":"Sarah Monette", "series":"Iskryne World", "bo
 authors["Romance"].push({"author":"Ricardo Pinto", "series":"The Stone Dance of the Chameleon", "book-title":"The Chosen"});
 authors["Romance"].push({"author":"B.R. Sanders", "series":"Ariah", "book-title":"Ariah"});
 authors["Romance"].push({"author":"Kai Ashante Wilson", "series":"The Sorcerer of the Wildeeps", "book-title":"The Sorcerer of the Wildeeps"});
+authors["Romance"].push({"author":"Elizabeth Bear", "series":"Jacob's Ladder", "book-title":"Dust"});
 
 authors["Sci-fi"] = [];
-authors["Sci-fi"].push({"author":"Elizabeth Bear", "series":"Jacob's Ladder", "book-title":"Dust"});
 authors["Sci-fi"].push({"author":"Becky Chambers", "series":"Wayfares", "book-title":"The Long Way to a Small, Angry Planet"});
 authors["Sci-fi"].push({"author":"Storm Constantine", "series":"Wraeththu", "book-title":"The Enchantments of Flesh and Spirit"});
 authors["Sci-fi"].push({"author":"Seth Dickinson", "series":"", "book-title":"The Traitor Baru Cormorant"});
 authors["Sci-fi"].push({"author":"N.K. Jemisin", "series":"The Broken Earth", "book-title":"The Fifth Season"});
 authors["Sci-fi"].push({"author":"Kameron Hurley", "series":"Worldbreaker Saga", "book-title":"Mirror Empire"});
 authors["Sci-fi"].push({"author":"David Mitchell", "series":"", "book-title":"Cloud Atlas"});
+authors["Sci-fi"].push({"author":"Elizabeth Bear", "series":"Karen Memory", "book-title":"Karen Memory"});
 
 authors["Steampunk"] = [];
-authors["Steampunk"].push({"author":"Elizabeth Bear", "series":"Karen Memory", "book-title":"Karen Memory"});
 authors["Steampunk"].push({"author":"Gail Carriger", "series":"Parasol Protectorate", "book-title":"Soulless"});
+authors["Steampunk"].push({"author":"S.M. Sterling", "series":"Island in the Sea of Time", "book-title":"Island in the Sea of Time"});
 
 authors["Time Travel"] = [];
-authors["Time Travel"].push({"author":"S.M. Sterling", "series":"Island in the Sea of Time", "book-title":"Island in the Sea of Time"});
 authors["Time Travel"].push({"author":"Michael J. Sullivan", "series":"", "book-title":"Hollow World"});
+authors["Time Travel"].push({"author":"Aliette de Bodard", "series":"Dominion of the Fallen", "book-title":"House of Shattered Wings"});
 
 authors["Urban Fantasy"] = [];
-authors["Urban Fantasy"].push({"author":"Aliette de Bodard", "series":"Dominion of the Fallen", "book-title":"House of Shattered Wings"});
 authors["Urban Fantasy"].push({"author":"Paul Cornell", "series":"Shadow Police", "book-title":"London Falling"});
 authors["Urban Fantasy"].push({"author":"Ilona Andrews", "series":"Kate Daniels", "book-title":"Magic Bites"});
 authors["Urban Fantasy"].push({"author":"Max Gladstone", "series":"Craft Sequence", "book-title":"Three Parts Dead"});
@@ -104,13 +103,13 @@ authors["Urban Fantasy"].push({"author":"J.A. Pitts", "series":"Sarah Beauhall",
 authors["Urban Fantasy"].push({"author":"Tom Pollock", "series":"Skyscraper Trilogy", "book-title":"The City's Son"});
 authors["Urban Fantasy"].push({"author":"V.E. Schwab", "series":"Shades of Magic", "book-title":"A Gathering of Shadows"});
 authors["Urban Fantasy"].push({"author":"Maggie Stiefvater", "series":"The Raven Cycle", "book-title":"The Raven Boys"});
+authors["Urban Fantasy"].push({"author":"Elizabeth Bear", "series":"Karen Memory", "book-title":"Karen Memory"});
 
 authors["Western"] = [];
-authors["Western"].push({"author":"Elizabeth Bear", "series":"Karen Memory", "book-title":"Karen Memory"});
+authors["Western"].push({"author":"L. Frank Baum", "series":"Oz", "book-title":"The Marvelous Land of Oz"});
 
 authors["Young Adult"] = [];
-authors["Young Adult"].push({"author":"L. Frank Baum", "series":"Oz", "book-title":"The Marvelous Land of Oz"});
 authors["Young Adult"].push({"author":"Leigh Bardugo", "series":"The Grisha", "book-title":"Shadow and Bone"});
 authors["Young Adult"].push({"author":"Malinda Lo", "series":"", "book-title":"Ash"});
 authors["Young Adult"].push({"author":"Rick Riordan", "series":"The Heroes of Olympus", "book-title":"The Lost Hero"});
-authors["Young Adult"].push({"author":"Maggie Stiefvater", "series":"The Raven Cycle", "book-title":"TThe Raven Boys"});
+authors["Young Adult"].push({"author":"Maggie Stiefvater", "series":"The Raven Cycle", "book-title":"The Raven Boys"});
