@@ -1,13 +1,11 @@
 genre	author	series	book title
 Alternative history	Mary Gentle	Book of Ash	Ash: A Secret History
 	Anne Lyle	Night's Masque	The Alchemist of Souls
-	SM Stirling	Island in the Sea of Time	
+	SM Stirling	Island in the Sea of Time	Island in the Sea of Time
 Epic Fantasy	Peter V Brett	The Demon Cycle	The Painted Man
 	Jacquelyn Carey	Kushiel's Universe	Kushiel's Dart
 	Jacquelyn Carey	Namaah's Trilogy	Namaah's Kiss
 	Seth Dickinson		The Traitor Baru Cormorant
-	David Gemmell	The Drenai Saga	Quest for Lost Heroes
-	John Gwynne	The Faithful and the Fallen 	Malice
 	Robin Hobb	Rain Wild Chronicles	The Dragon Keeper
 	Kameron Hurley	Worldbreaker Saga	The Mirror Empire
 	Alex Marshall	The Crimson Empire	A Crown for Cold Silver
@@ -17,19 +15,21 @@ Epic Fantasy	Peter V Brett	The Demon Cycle	The Painted Man
 	Den Patrick	Erebus Sequence	The Boy With the Porcelain Blade
 	Ricardo Pinto	The Stone Dance of the Chameleon	The Chosen
 	W.G. Saraband		The Shattered Sands
-	Ken Scholes	Psalms of Isaak	Lamentation
 	Anna Stephens		Godblind
 	Brent Weeks	Nigh Angel	The Way of the Shadows
 	Django Wexler	The Shadow Campaigns	The Thousand Names
 	Jen Williams	The Copper Cat	The Copper Promise
 Fairy Tales	Jim C.Hines	Princess	Red Hood's Revenge
 	Malinda Lo		Ash
+Heroic Fantasy	David Gemmell	The Drenai Saga	Quest for Lost Heroes
+	Jen Williams	The Winnowing Flame Trilogy	The Ninth Rain
 High Fantasy	Joe Abercrombie	First Law World	Sharp Ends
 	Peter V Brett	The Demon Cycle	The Painted Man
 	Amanda Downum	The Necromancer Chronicles	The Bone Palace
 	Lynn Flewelling	Nightrunner	Luck in the Shadows
-	John Gwynne	The Faithful and the Fallen	Malice
 	Kameron Hurley	Worldbreaker Saga	The Mirror Empire
+	Mark Lawrence	Book of the Ancestor	Red Sister
+	Rebecca Levene	The Hollow Gods	Smiler's Fair
 	Alex Marshall	The Crimson Empire	A Crown for Cold Silver
 	Mark Charan Newton	Legends of the Red Sun	Nights of Villjamur
 	Den Patrick	Erebus Sequence 	The Boy With the Porcelain Blade
@@ -39,9 +39,10 @@ High Fantasy	Joe Abercrombie	First Law World	Sharp Ends
 Historic Fantasy	Michael Chabon		The Amazing Adventures of Kavalier & Clay
 	Ellen Klages		Passing Strange
 Horror	Caitlin R. Kiernan		The Drowning Girl
+Low Fantasy	N.K. Jemsin	The Broken Earth	The Fifth Season
 Military Fantasy	Megan Derr	Kria	Prisoner
 	Django Wexler	The Shadow Campaigns	The Thousand Names
-Mythology	Rebecca Levene	The Hollow Gods	Smiler's Fair
+Mythology	Sarah Monette	Iskryne World	A companion to wolves
 	Rick Riordan	The Heroes of Olympus	The Lost Hero
 New Weird	China Mieville	New Crobuzon	Iron Council
 Romance	Jacquelyn Carey	Kushiel's Universe	Kushiel's Dart
@@ -53,15 +54,14 @@ Romance	Jacquelyn Carey	Kushiel's Universe	Kushiel's Dart
 	Mercedes Lackey	Valdemar:The Last Herald Mage	Magic's Pawn
 	Malinda Lo		Ash
 	Sarah Monette	Doictrine of Labyrinths	Melusine
-	Sarah Monette	Iskryne World	A Companion to Wolves
 	Ricardo Pinto	The Stone Dance of the Chameleon	The Chosen
 	B.R. Sanders	Ariah	Ariah
 	Kai Ashante Wilson	The Sorcerer of the Wildeeps	The Sorcerer of the Wildeeps
-	Elizabeth Bear	Jacob's Ladder	Dust
-Sci-fi	Becky Chambers	Wayfares	The Long Way to a Small, Angry Planet
+Sci-Fi	Elizabeth Bear	Jacob's Ladder	Dust
+	Becky Chambers	Wayfares	The Long Way to a Small, Angry Planet
 	Storm Constantine	Wraeththu	The Enchantments of Flesh and Spirit
+	Eli Freysson	The Golden Throne	The War of the Usurper
 	Seth Dickinson		The Traitor Baru Cormorant
-	N.K. Jemisin	The Broken Earth	The Fifth Season
 	Kameron Hurley	Worldbreaker Saga	Mirror Empire
 	David Mitchell		Cloud Atlas
 	Elizabeth Bear	Karen Memory	Karen Memory
@@ -74,11 +74,11 @@ Urban Fantasy	Paul Cornell	Shadow Police	London Falling
 	Max Gladstone	Craft Sequence	Three Parts Dead
 	J.A. Pitts	Sarah Beauhall	Black Blades Blue
 	Tom Pollock	Skyscraper Trilogy	The City's Son
-	V.E. Schwab	Shades of Magic	A Gathering of Shadows
+	V.E. Schwab	Shades of Magic	A Conjuring of Light
 	Maggie Stiefvater	The Raven Cycle	The Raven Boys
-	Elizabeth Bear	Karen Memory	Karen Memory
-Western	L. Frank Baum	Oz	The Marvelous Land of Oz
-Young Adult	Leigh Bardugo	The Grisha	Shadow and Bone
+Western	Elizabeth Bear	Karen Memory	Karen Memory
+Young Adult	L. Frank Baum	Oz	The Marvelous Land of Oz
+	Leigh Bardugo	The Grisha	Shadow and Bone
 	Malinda Lo		Ash
 	Rick Riordan	The Heroes of Olympus	The Lost Hero
 	Maggie Stiefvater	The Raven Cycle	The Raven Boys
