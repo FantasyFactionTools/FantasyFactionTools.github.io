@@ -70,9 +70,13 @@
     [b]Anna Stephens[/b]
     Godblind
 
+    [b]Jon Skovron[/b]
+    Hope and Red
+    [i]Empire of Storms[/i]
+
     [b]Brent Weeks[/b]
     The Way of the Shadows
-    [i]Nigh Angel[/i]
+    [i]Night Angel[/i]
 
     [b]Django Wexler[/b]
     The Thousand Names
@@ -246,6 +250,10 @@
     [b]Sarah Monette[/b]
     Melusine
     [i]Doictrine of Labyrinths[/i]
+
+    [b]C.S. Pacat[/b]
+    Captive Prince
+    [i]Captive Prince[/i]
 
     [b]Ricardo Pinto[/b]
     The Chosen

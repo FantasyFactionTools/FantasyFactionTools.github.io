@@ -3,8 +3,9 @@ import json
 
 csvfile = open('LGBT Characters - Sheet1.tsv', 'r')
 
-jsfile = open('lgbt-characters.js', 'w')
+jsfile = open('../../lists/lgbt-characters.js', 'w')
 jsfile.truncate()
+jsfile.write("\nauthors = {};\n")
 
 bbfile = open('lgbt-characters.txt', 'w')
 bbfile.truncate()

@@ -1,3 +1,4 @@
+
 authors = {};
 
 authors["Alternative history"] = [];
@@ -20,7 +21,8 @@ authors["Epic Fantasy"].push({"author":"Den Patrick", "series":"Erebus Sequence"
 authors["Epic Fantasy"].push({"author":"Ricardo Pinto", "series":"The Stone Dance of the Chameleon", "book-title":"The Chosen"});
 authors["Epic Fantasy"].push({"author":"W.G. Saraband", "series":"", "book-title":"The Shattered Sands"});
 authors["Epic Fantasy"].push({"author":"Anna Stephens", "series":"", "book-title":"Godblind"});
-authors["Epic Fantasy"].push({"author":"Brent Weeks", "series":"Nigh Angel", "book-title":"The Way of the Shadows"});
+authors["Epic Fantasy"].push({"author":"Jon Skovron", "series":"Empire of Storms", "book-title":"Hope and Red"});
+authors["Epic Fantasy"].push({"author":"Brent Weeks", "series":"Night Angel", "book-title":"The Way of the Shadows"});
 authors["Epic Fantasy"].push({"author":"Django Wexler", "series":"The Shadow Campaigns", "book-title":"The Thousand Names"});
 authors["Epic Fantasy"].push({"author":"Jen Williams", "series":"The Copper Cat", "book-title":"The Copper Promise"});
 
@@ -78,6 +80,7 @@ authors["Romance"].push({"author":"Ellen Kushner", "series":"The World of Rivers
 authors["Romance"].push({"author":"Mercedes Lackey", "series":"Valdemar:The Last Herald Mage", "book-title":"Magic's Pawn"});
 authors["Romance"].push({"author":"Malinda Lo", "series":"", "book-title":"Ash"});
 authors["Romance"].push({"author":"Sarah Monette", "series":"Doictrine of Labyrinths", "book-title":"Melusine"});
+authors["Romance"].push({"author":"C.S. Pacat", "series":"Captive Prince", "book-title":"Captive Prince"});
 authors["Romance"].push({"author":"Ricardo Pinto", "series":"The Stone Dance of the Chameleon", "book-title":"The Chosen"});
 authors["Romance"].push({"author":"B.R. Sanders", "series":"Ariah", "book-title":"Ariah"});
 authors["Romance"].push({"author":"Kai Ashante Wilson", "series":"The Sorcerer of the Wildeeps", "book-title":"The Sorcerer of the Wildeeps"});
