@@ -7,7 +7,7 @@ _LGBT Characters in SFF:_
 https://docs.google.com/spreadsheets/d/1_qeQ8ccoom9h5hi9TAuAvtGb8dT06KPc6HJjN_fi4t0/edit?usp=sharing
 
 #### Step Two
-Export the sheet as "LGBT Characters - Sheet1.tsv" into the `/scripts/lgbt-characters` directory.  Replace the old one.
+Export the sheet as `LGBT Characters - Sheet1.tsv` into the `/scripts/lgbt-characters` directory.  Replace the old one.
 
 #### Step Three
 Run the python script to bake the data for the HTML page.

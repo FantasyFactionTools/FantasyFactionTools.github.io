@@ -230,28 +230,7 @@ authors["Young Adult"].push({"author":"Maggie Stiefvater", "series":"The Raven C
 			// =====================================
 			// =====================================
 
-	        for (var genre in authors) {
-	            
-	        	$("#main_content").append('<h2 class="header-level-2">' + genre + '</h2>');
-	        	var genreList = $("<ul></ul>");
-
-	        	for (var i in authors[genre]) {
-	        		var ipListItem = $("<li></li>");
-
-	        		ipListItem.append('<h3><span>' + authors[genre][i]['author'] + '</span></h3>');
-
-	        		var bookSeriesArray = [];
-	        		if (authors[genre][i]['book-title'] != "") bookSeriesArray.push(authors[genre][i]['book-title']);
-	        		if (authors[genre][i]['series'] != "") bookSeriesArray.push(authors[genre][i]['series'] + ' series');
-
-	        		ipListItem.append('<p>' + bookSeriesArray.join('<br>') + '</p>');
-
-	        		genreList.append(ipListItem);
-	        	}
-
-	        	$("#main_content").append(genreList);
-	        }
-
+			// function to sort them by last name.
 			sort_by_author = function(a,b) {
 				aNameArray = a.author.split(" ");
 				aLastName = aNameArray.pop();
@@ -265,6 +244,35 @@ authors["Young Adult"].push({"author":"Maggie Stiefvater", "series":"The Raven C
 					return 1;
 				return 0;
 			}
+
+	        for (var genre in authors) {
+	            
+	        	$("#main_content").append('<h2 class="header-level-2">' + genre + '</h2>');
+	        	var genreList = $("<ul></ul>");
+
+        		authors[genre].sort(sort_by_author);
+        		recentAuthor = "";
+
+	        	for (var i in authors[genre]) {
+	        		var ipListItem = $("<li></li>");
+
+	        		if (recentAuthor != authors[genre][i]['author']) {
+	        			ipListItem.append('<h3><span>' + authors[genre][i]['author'] + '</span></h3>');
+	        			recentAuthor = authors[genre][i]['author'];
+	        		}
+
+	        		var bookSeriesArray = [];
+	        		if (authors[genre][i]['book-title'] != "") bookSeriesArray.push(authors[genre][i]['book-title']);
+	        		if (authors[genre][i]['series'] != "") bookSeriesArray.push(authors[genre][i]['series'] + ' series');
+
+	        		ipListItem.append('<p>' + bookSeriesArray.join('<br>') + '</p>');
+
+	        		genreList.append(ipListItem);
+	        	}
+
+	        	$("#main_content").append(genreList);
+	        }
+
 
 		})
 	</script>
