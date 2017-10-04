@@ -25,4 +25,6 @@ It will do two things:
 Commit your changes and it'll just show up on this page:  
 [https://fantasyfactiontools.github.io/lists/lgbt-characters.html](https://fantasyfactiontools.github.io/lists/lgbt-characters.html)
 
+_NOTE:  It could take a few minutes for the changes to propagate.  Give it a little bit before you see the updates._
+
 Copy and paste the contents of `lgbt-characters.txt` into whereever you'd like in the forum.

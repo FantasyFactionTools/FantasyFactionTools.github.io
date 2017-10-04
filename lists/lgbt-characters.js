@@ -1,3 +1,4 @@
+authors = {};
 
 authors["Alternative history"] = [];
 authors["Alternative history"].push({"author":"Mary Gentle", "series":"Book of Ash", "book-title":"Ash: A Secret History"});
