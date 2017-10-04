@@ -252,6 +252,19 @@ authors["Young Adult"].push({"author":"Maggie Stiefvater", "series":"The Raven C
 	        	$("#main_content").append(genreList);
 	        }
 
+			sort_by_author = function(a,b) {
+				aNameArray = a.author.split(" ");
+				aLastName = aNameArray.pop();
+
+				bNameArray = b.author.split(" ");
+				bLastName = bNameArray.pop();
+
+				if (aLastName < bLastName)
+					return -1;
+				if (aLastName > bLastName)
+					return 1;
+				return 0;
+			}
 
 		})
 	</script>
