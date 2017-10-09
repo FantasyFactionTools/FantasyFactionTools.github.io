@@ -118,6 +118,7 @@ authors["Western"].push({"author":"Elizabeth Bear", "series":"Karen Memory", "bo
 authors["Young Adult"] = [];
 authors["Young Adult"].push({"author":"L. Frank Baum", "series":"Oz", "book-title":"The Marvelous Land of Oz"});
 authors["Young Adult"].push({"author":"Leigh Bardugo", "series":"The Grisha", "book-title":"Shadow and Bone"});
+authors["Young Adult"].push({"author":"Leigh Bardugo", "series":"Six of Crows", "book-title":"Six of Crows"});
 authors["Young Adult"].push({"author":"Malinda Lo", "series":"", "book-title":"Ash"});
 authors["Young Adult"].push({"author":"Rick Riordan", "series":"The Heroes of Olympus", "book-title":"The Lost Hero"});
 authors["Young Adult"].push({"author":"Maggie Stiefvater", "series":"The Raven Cycle", "book-title":"The Raven Boys"});
