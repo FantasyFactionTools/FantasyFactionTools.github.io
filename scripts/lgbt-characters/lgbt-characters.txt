@@ -1,44 +1,207 @@
 
 
+[color=brown][size=14pt][b]Heroic Fantasy[/b][/size][/color]
+
+    [b]David Gemmell[/b]
+    Quest for Lost Heroes
+    [i]The Drenai Saga[/i]
+
+    [b]Jen Williams[/b]
+    The Ninth Rain
+    [i]The Winnowing Flame Trilogy[/i]
+
+
+[color=brown][size=14pt][b]Historic Fantasy[/b][/size][/color]
+
+    [b]Ellen Klages[/b]
+    Passing Strange
+
+    [b]Michael Chabon[/b]
+    The Amazing Adventures of Kavalier & Clay
+
+
+[color=brown][size=14pt][b]Low Fantasy[/b][/size][/color]
+
+    [b]N.K. Jemsin[/b]
+    The Fifth Season
+    [i]The Broken Earth[/i]
+
+
+[color=brown][size=14pt][b]Sci-Fi[/b][/size][/color]
+
+    [b]David Mitchell[/b]
+    Cloud Atlas
+
+    [b]Elizabeth Bear[/b]
+    Dust
+    [i]Jacob's Ladder[/i]
+
+    Karen Memory
+    [i]Karen Memory[/i]
+
+    [b]Kameron Hurley[/b]
+    Mirror Empire
+    [i]Worldbreaker Saga[/i]
+
+    [b]Storm Constantine[/b]
+    The Enchantments of Flesh and Spirit
+    [i]Wraeththu[/i]
+
+    [b]Becky Chambers[/b]
+    The Long Way to a Small, Angry Planet
+    [i]Wayfares[/i]
+
+    [b]Seth Dickinson[/b]
+    The Traitor Baru Cormorant
+
+    [b]Eli Freysson[/b]
+    The War of the Usurper
+    [i]The Golden Throne[/i]
+
+
+[color=brown][size=14pt][b]New Weird[/b][/size][/color]
+
+    [b]China Mieville[/b]
+    Iron Council
+    [i]New Crobuzon[/i]
+
+
+[color=brown][size=14pt][b]Steampunk[/b][/size][/color]
+
+    [b]S.M. Sterling[/b]
+    Island in the Sea of Time
+    [i]Island in the Sea of Time[/i]
+
+    [b]Gail Carriger[/b]
+    Soulless
+    [i]Parasol Protectorate[/i]
+
+
 [color=brown][size=14pt][b]Alternative history[/b][/size][/color]
 
     [b]Mary Gentle[/b]
     Ash: A Secret History
     [i]Book of Ash[/i]
 
-    [b]Anne Lyle[/b]
-    The Alchemist of Souls
-    [i]Night's Masque[/i]
-
     [b]SM Stirling[/b]
     Island in the Sea of Time
     [i]Island in the Sea of Time[/i]
 
+    [b]Anne Lyle[/b]
+    The Alchemist of Souls
+    [i]Night's Masque[/i]
 
-[color=brown][size=14pt][b]Epic Fantasy[/b][/size][/color]
+
+[color=brown][size=14pt][b]High Fantasy[/b][/size][/color]
+
+    [b]Alex Marshall[/b]
+    A Crown for Cold Silver
+    [i]The Crimson Empire[/i]
+
+    [b]Lynn Flewelling[/b]
+    Luck in the Shadows
+    [i]Nightrunner[/i]
+
+    [b]Mark Charan Newton[/b]
+    Nights of Villjamur
+    [i]Legends of the Red Sun[/i]
+
+    [b]Mark Lawrence[/b]
+    Red Sister
+    [i]Book of the Ancestor[/i]
+
+    [b]Joe Abercrombie[/b]
+    Sharp Ends
+    [i]First Law World[/i]
+
+    [b]Rebecca Levene[/b]
+    Smiler's Fair
+    [i]The Hollow Gods[/i]
+
+    [b]Amanda Downum[/b]
+    The Bone Palace
+    [i]The Necromancer Chronicles[/i]
+
+    [b]Den Patrick[/b]
+    The Boy With the Porcelain Blade
+    [i]Erebus Sequence [/i]
+
+    [b]Jen Williams[/b]
+    The Copper Promise
+    [i]The Copper Cat[/i]
+
+    [b]Kameron Hurley[/b]
+    The Mirror Empire
+    [i]Worldbreaker Saga[/i]
 
     [b]Peter V Brett[/b]
     The Painted Man
     [i]The Demon Cycle[/i]
 
+    [b]Django Wexler[/b]
+    The Thousand Names
+    [i]The Shadow Campaigns[/i]
+
+    [b]Melanie Rawn[/b]
+    Touchstone
+    [i]Glass Thorns[/i]
+
+
+[color=brown][size=14pt][b]Romance[/b][/size][/color]
+
+    [b]B.R. Sanders[/b]
+    Ariah
+    [i]Ariah[/i]
+
+    [b]Malinda Lo[/b]
+    Ash
+
+    [b]C.S. Pacat[/b]
+    Captive Prince
+    [i]Captive Prince[/i]
+
     [b]Jacquelyn Carey[/b]
     Kushiel's Dart
     [i]Kushiel's Universe[/i]
 
+    [b]Lynn Flewelling[/b]
+    Luck in the Shadows
+    [i]Nightrunner[/i]
+
+    [b]Mercedes Lackey[/b]
+    Magic's Pawn
+    [i]Valdemar:The Last Herald Mage[/i]
+
+    [b]Sarah Monette[/b]
+    Melusine
+    [i]Doictrine of Labyrinths[/i]
+
     [b]Jacquelyn Carey[/b]
     Namaah's Kiss
-    [i]Namaah's Trilogy[/i]
+    [i]Namahh's Trilogy[/i]
 
-    [b]Seth Dickinson[/b]
-    The Traitor Baru Cormorant
+    [b]Megan Derr[/b]
+    Prisoner
+    [i]Kria[/i]
 
-    [b]Robin Hobb[/b]
-    The Dragon Keeper
-    [i]Rain Wild Chronicles[/i]
+    [b]Ellen Kushner[/b]
+    Swordspoint
+    [i]The World of Riverside[/i]
 
-    [b]Kameron Hurley[/b]
-    The Mirror Empire
-    [i]Worldbreaker Saga[/i]
+    [b]Ricardo Pinto[/b]
+    The Chosen
+    [i]The Stone Dance of the Chameleon[/i]
+
+    [b]Storm Constantine[/b]
+    The Enchantments of Flesh and Spirit
+    [i]Wraeththu[/i]
+
+    [b]Kai Ashante Wilson[/b]
+    The Sorcerer of the Wildeeps
+    [i]The Sorcerer of the Wildeeps[/i]
+
+
+[color=brown][size=14pt][b]Epic Fantasy[/b][/size][/color]
 
     [b]Alex Marshall[/b]
     A Crown for Cold Silver
@@ -48,9 +211,19 @@
     A Game of Thrones
     [i]A Song of Fire and Ice[/i]
 
-    [b]Richard K. Morgan[/b]
-    The Steel Remains
-    [i]A Land Fit for Heroes[/i]
+    [b]Anna Stephens[/b]
+    Godblind
+
+    [b]Jon Skovron[/b]
+    Hope and Red
+    [i]Empire of Storms[/i]
+
+    [b]Jacquelyn Carey[/b]
+    Kushiel's Dart
+    [i]Kushiel's Universe[/i]
+
+    Namaah's Kiss
+    [i]Namaah's Trilogy[/i]
 
     [b]Mark Charan Newton[/b]
     Nights of Villjamur
@@ -64,125 +237,49 @@
     The Chosen
     [i]The Stone Dance of the Chameleon[/i]
 
-    [b]W.G. Saraband[/b]
-    The Shattered Sands
-
-    [b]Anna Stephens[/b]
-    Godblind
-
-    [b]Jon Skovron[/b]
-    Hope and Red
-    [i]Empire of Storms[/i]
-
-    [b]Brent Weeks[/b]
-    The Way of the Shadows
-    [i]Night Angel[/i]
-
-    [b]Django Wexler[/b]
-    The Thousand Names
-    [i]The Shadow Campaigns[/i]
-
     [b]Jen Williams[/b]
     The Copper Promise
     [i]The Copper Cat[/i]
 
-
-[color=brown][size=14pt][b]Fairy Tales[/b][/size][/color]
-
-    [b]Jim C.Hines[/b]
-    Red Hood's Revenge
-    [i]Princess[/i]
-
-    [b]Malinda Lo[/b]
-    Ash
-
-
-[color=brown][size=14pt][b]Heroic Fantasy[/b][/size][/color]
-
-    [b]David Gemmell[/b]
-    Quest for Lost Heroes
-    [i]The Drenai Saga[/i]
-
-    [b]Jen Williams[/b]
-    The Ninth Rain
-    [i]The Winnowing Flame Trilogy[/i]
-
-
-[color=brown][size=14pt][b]High Fantasy[/b][/size][/color]
-
-    [b]Joe Abercrombie[/b]
-    Sharp Ends
-    [i]First Law World[/i]
-
-    [b]Peter V Brett[/b]
-    The Painted Man
-    [i]The Demon Cycle[/i]
-
-    [b]Amanda Downum[/b]
-    The Bone Palace
-    [i]The Necromancer Chronicles[/i]
-
-    [b]Lynn Flewelling[/b]
-    Luck in the Shadows
-    [i]Nightrunner[/i]
+    [b]Robin Hobb[/b]
+    The Dragon Keeper
+    [i]Rain Wild Chronicles[/i]
 
     [b]Kameron Hurley[/b]
     The Mirror Empire
     [i]Worldbreaker Saga[/i]
 
-    [b]Mark Lawrence[/b]
-    Red Sister
-    [i]Book of the Ancestor[/i]
+    [b]Peter V Brett[/b]
+    The Painted Man
+    [i]The Demon Cycle[/i]
 
-    [b]Rebecca Levene[/b]
-    Smiler's Fair
-    [i]The Hollow Gods[/i]
+    [b]W.G. Saraband[/b]
+    The Shattered Sands
 
-    [b]Alex Marshall[/b]
-    A Crown for Cold Silver
-    [i]The Crimson Empire[/i]
-
-    [b]Mark Charan Newton[/b]
-    Nights of Villjamur
-    [i]Legends of the Red Sun[/i]
-
-    [b]Den Patrick[/b]
-    The Boy With the Porcelain Blade
-    [i]Erebus Sequence [/i]
-
-    [b]Melanie Rawn[/b]
-    Touchstone
-    [i]Glass Thorns[/i]
+    [b]Richard K. Morgan[/b]
+    The Steel Remains
+    [i]A Land Fit for Heroes[/i]
 
     [b]Django Wexler[/b]
     The Thousand Names
     [i]The Shadow Campaigns[/i]
 
-    [b]Jen Williams[/b]
-    The Copper Promise
-    [i]The Copper Cat[/i]
+    [b]Seth Dickinson[/b]
+    The Traitor Baru Cormorant
+
+    [b]Brent Weeks[/b]
+    The Way of the Shadows
+    [i]Night Angel[/i]
 
 
-[color=brown][size=14pt][b]Historic Fantasy[/b][/size][/color]
+[color=brown][size=14pt][b]Fairy Tales[/b][/size][/color]
 
-    [b]Michael Chabon[/b]
-    The Amazing Adventures of Kavalier & Clay
+    [b]Malinda Lo[/b]
+    Ash
 
-    [b]Ellen Klages[/b]
-    Passing Strange
-
-
-[color=brown][size=14pt][b]Horror[/b][/size][/color]
-
-    [b]Caitlin R. Kiernan[/b]
-    The Drowning Girl
-
-
-[color=brown][size=14pt][b]Low Fantasy[/b][/size][/color]
-
-    [b]N.K. Jemsin[/b]
-    The Fifth Season
-    [i]The Broken Earth[/i]
+    [b]Jim C.Hines[/b]
+    Red Hood's Revenge
+    [i]Princess[/i]
 
 
 [color=brown][size=14pt][b]Military Fantasy[/b][/size][/color]
@@ -196,6 +293,38 @@
     [i]The Shadow Campaigns[/i]
 
 
+[color=brown][size=14pt][b]Western[/b][/size][/color]
+
+    [b]Elizabeth Bear[/b]
+    Karen Memory
+    [i]Karen Memory[/i]
+
+
+[color=brown][size=14pt][b]Young Adult[/b][/size][/color]
+
+    [b]Malinda Lo[/b]
+    Ash
+
+    [b]Leigh Bardugo[/b]
+    Shadow and Bone
+    [i]The Grisha[/i]
+
+    Six of Crows
+    [i]Six of Crows[/i]
+
+    [b]Rick Riordan[/b]
+    The Lost Hero
+    [i]The Heroes of Olympus[/i]
+
+    [b]L. Frank Baum[/b]
+    The Marvelous Land of Oz
+    [i]Oz[/i]
+
+    [b]Maggie Stiefvater[/b]
+    The Raven Boys
+    [i]The Raven Cycle[/i]
+
+
 [color=brown][size=14pt][b]Mythology[/b][/size][/color]
 
     [b]Sarah Monette[/b]
@@ -207,109 +336,10 @@
     [i]The Heroes of Olympus[/i]
 
 
-[color=brown][size=14pt][b]New Weird[/b][/size][/color]
+[color=brown][size=14pt][b]Horror[/b][/size][/color]
 
-    [b]China Mieville[/b]
-    Iron Council
-    [i]New Crobuzon[/i]
-
-
-[color=brown][size=14pt][b]Romance[/b][/size][/color]
-
-    [b]Jacquelyn Carey[/b]
-    Kushiel's Dart
-    [i]Kushiel's Universe[/i]
-
-    [b]Jacquelyn Carey[/b]
-    Namaah's Kiss
-    [i]Namahh's Trilogy[/i]
-
-    [b]Storm Constantine[/b]
-    The Enchantments of Flesh and Spirit
-    [i]Wraeththu[/i]
-
-    [b]Megan Derr[/b]
-    Prisoner
-    [i]Kria[/i]
-
-    [b]Lynn Flewelling[/b]
-    Luck in the Shadows
-    [i]Nightrunner[/i]
-
-    [b]Ellen Kushner[/b]
-    Swordspoint
-    [i]The World of Riverside[/i]
-
-    [b]Mercedes Lackey[/b]
-    Magic's Pawn
-    [i]Valdemar:The Last Herald Mage[/i]
-
-    [b]Malinda Lo[/b]
-    Ash
-
-    [b]Sarah Monette[/b]
-    Melusine
-    [i]Doictrine of Labyrinths[/i]
-
-    [b]C.S. Pacat[/b]
-    Captive Prince
-    [i]Captive Prince[/i]
-
-    [b]Ricardo Pinto[/b]
-    The Chosen
-    [i]The Stone Dance of the Chameleon[/i]
-
-    [b]B.R. Sanders[/b]
-    Ariah
-    [i]Ariah[/i]
-
-    [b]Kai Ashante Wilson[/b]
-    The Sorcerer of the Wildeeps
-    [i]The Sorcerer of the Wildeeps[/i]
-
-
-[color=brown][size=14pt][b]Sci-Fi[/b][/size][/color]
-
-    [b]Elizabeth Bear[/b]
-    Dust
-    [i]Jacob's Ladder[/i]
-
-    [b]Becky Chambers[/b]
-    The Long Way to a Small, Angry Planet
-    [i]Wayfares[/i]
-
-    [b]Storm Constantine[/b]
-    The Enchantments of Flesh and Spirit
-    [i]Wraeththu[/i]
-
-    [b]Eli Freysson[/b]
-    The War of the Usurper
-    [i]The Golden Throne[/i]
-
-    [b]Seth Dickinson[/b]
-    The Traitor Baru Cormorant
-
-    [b]Kameron Hurley[/b]
-    Mirror Empire
-    [i]Worldbreaker Saga[/i]
-
-    [b]David Mitchell[/b]
-    Cloud Atlas
-
-    [b]Elizabeth Bear[/b]
-    Karen Memory
-    [i]Karen Memory[/i]
-
-
-[color=brown][size=14pt][b]Steampunk[/b][/size][/color]
-
-    [b]Gail Carriger[/b]
-    Soulless
-    [i]Parasol Protectorate[/i]
-
-    [b]S.M. Sterling[/b]
-    Island in the Sea of Time
-    [i]Island in the Sea of Time[/i]
+    [b]Caitlin R. Kiernan[/b]
+    The Drowning Girl
 
 
 [color=brown][size=14pt][b]Time Travel[/b][/size][/color]
@@ -324,6 +354,14 @@
 
 [color=brown][size=14pt][b]Urban Fantasy[/b][/size][/color]
 
+    [b]V.E. Schwab[/b]
+    A Conjuring of Light
+    [i]Shades of Magic[/i]
+
+    [b]J.A. Pitts[/b]
+    Black Blades Blue
+    [i]Sarah Beauhall[/i]
+
     [b]Paul Cornell[/b]
     London Falling
     [i]Shadow Police[/i]
@@ -332,55 +370,14 @@
     Magic Bites
     [i]Kate Daniels[/i]
 
-    [b]Max Gladstone[/b]
-    Three Parts Dead
-    [i]Craft Sequence[/i]
-
-    [b]J.A. Pitts[/b]
-    Black Blades Blue
-    [i]Sarah Beauhall[/i]
-
     [b]Tom Pollock[/b]
     The City's Son
     [i]Skyscraper Trilogy[/i]
 
-    [b]V.E. Schwab[/b]
-    A Conjuring of Light
-    [i]Shades of Magic[/i]
-
     [b]Maggie Stiefvater[/b]
     The Raven Boys
     [i]The Raven Cycle[/i]
 
-
-[color=brown][size=14pt][b]Western[/b][/size][/color]
-
-    [b]Elizabeth Bear[/b]
-    Karen Memory
-    [i]Karen Memory[/i]
-
-
-[color=brown][size=14pt][b]Young Adult[/b][/size][/color]
-
-    [b]L. Frank Baum[/b]
-    The Marvelous Land of Oz
-    [i]Oz[/i]
-
-    [b]Leigh Bardugo[/b]
-    Shadow and Bone
-    [i]The Grisha[/i]
-
-    [b]Leigh Bardugo[/b]
-    Six of Crows
-    [i]Six of Crows[/i]
-
-    [b]Malinda Lo[/b]
-    Ash
-
-    [b]Rick Riordan[/b]
-    The Lost Hero
-    [i]The Heroes of Olympus[/i]
-
-    [b]Maggie Stiefvater[/b]
-    The Raven Boys
-    [i]The Raven Cycle[/i]
+    [b]Max Gladstone[/b]
+    Three Parts Dead
+    [i]Craft Sequence[/i]
